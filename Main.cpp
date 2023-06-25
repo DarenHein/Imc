@@ -20,7 +20,7 @@ int main(){
     porta();  
     cout << "Hola bienvenido al progrma de calculo de indice de masa corporal (IMC)"<< endl ; 
     cout << "¿ Eres nuevo Usuario ?" << endl; 
-    cout << " 1 -> si \n 2 -> no \n 3 salir " << endl ; 
+    cout << " 1 -> si \n 2 -> no \n 3 -> salir " << endl ; 
     cout << "Digita tu opcion -> " ; 
     cin >> op ; 
     switch (op)
